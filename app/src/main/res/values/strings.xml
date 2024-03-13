@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DataBaseSql</string>
+    <string name="name">NameCaption\n</string>
+    <string name="nom_gmail">Nom@gmail</string>
+    <string name="telephone">Telephone</string>
+    <string name="_00_000_000">00 000 000</string>
+    <string name="ajouter_a_la_base">Ajouter a la base</string>
+    <string name="voir_base">voir base</string>
+    <string name="name1">Name</string>
+    <string name="email">Email</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="name2">Name</string>
+</resources>
